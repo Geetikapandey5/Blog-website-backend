@@ -1,1 +1,2 @@
-# Blog-website-backend
+# Blogging-Backend
+Backend project of blogging website
